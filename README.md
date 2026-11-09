@@ -71,20 +71,34 @@ I build **Telegram bots, Telegram Mini Apps and websites for small businesses** 
 
 ---
 
-## 🚀 Featured project
+## 🚀 Projects
 
-### 🛍️ Telegram Mini App clothing store
+### 🛍️ [BRAND GRODNO — Telegram Mini App Store](https://github.com/Marcountt/telegram-shop-miniapp)
 
-A full online store inside Telegram, with a bot for managers and customers.
+A full online store inside Telegram for BRAND GRODNO, a clothing store in Grodno — with a bot for managers and customers.
 
 | Customers | Store owner |
 |---|---|
-| Catalog with sizes and variants | Admin panel with photo uploads |
+| Catalog with sizes, filters and search | Admin panel with photo uploads |
 | Favorites and cart | Products, stock and store settings |
-| Delivery or pickup at checkout | Order notifications in Telegram |
+| Checkout with delivery options | Order notifications in Telegram |
 | Order history | Change order status right in the bot |
 
 `Python` · `FastAPI` · `aiogram` · `React` · `TypeScript` · `PostgreSQL` · `Docker`
+
+### 🧥 [Skandic Shop](https://github.com/Marcountt/skandic-shop) · [Live demo](https://marcountt.github.io/skandic-shop/)
+
+A fast, mobile-first store showcase with search, filters, favorites, cart, currency switcher and dark theme — no frameworks, no build step.
+
+`HTML` · `CSS` · `JavaScript` · `GitHub Pages`
+
+### 🌐 [Business Websites](https://github.com/Marcountt/business-websites) · [Live demos](https://marcountt.github.io/business-websites/)
+
+Four mobile-first sites for small businesses — a coffee shop, a dental clinic with online booking, a coworking space and a clothing store.
+
+`HTML` · `CSS` · `JavaScript` · `GitHub Pages`
+
+---
 
 <div align="center">
 
