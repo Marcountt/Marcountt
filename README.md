@@ -86,21 +86,6 @@ A full online store inside Telegram, with a bot for managers and customers.
 
 `Python` · `FastAPI` · `aiogram` · `React` · `TypeScript` · `PostgreSQL` · `Docker`
 
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcountt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcountt&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcountt&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Have a project in mind?
