@@ -10,6 +10,7 @@
 
 <a href="https://t.me/Macount"><img src="https://img.shields.io/badge/Telegram-@Macount-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:marcountt@gmail.com"><img src="https://img.shields.io/badge/Email-marcountt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://marcountt.github.io/"><img src="https://img.shields.io/badge/Portfolio-marcountt.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20work-22C55E?style=for-the-badge" alt="Open to work"/>
 
 </div>
